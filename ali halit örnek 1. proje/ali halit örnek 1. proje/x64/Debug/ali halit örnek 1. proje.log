@@ -1,0 +1,6 @@
+﻿  ali halit örnek 1. proje.cpp
+C:\Users\technopc\source\repos\ali halit örnek 1. proje\ali halit örnek 1. proje\ali halit örnek 1. proje.cpp(89,42): warning C4244: '=': 'double' - '__int64' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\ali halit örnek 1. proje\ali halit örnek 1. proje\ali halit örnek 1. proje.cpp(450,39): warning C4244: '=': 'double' - '__int64' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\ali halit örnek 1. proje\ali halit örnek 1. proje\ali halit örnek 1. proje.cpp(456,34): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\ali halit örnek 1. proje\ali halit örnek 1. proje\ali halit örnek 1. proje.cpp(656,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ali halit örnek 1. proje.vcxproj -> C:\Users\technopc\source\repos\ali halit örnek 1. proje\x64\Debug\ali halit örnek 1. proje.exe
